@@ -56,3 +56,56 @@ pipenv shell
 . /home/kimsy/.local/share/virtualenvs/kimsy-oFOtfpXs/bin/activate
 code.
 code .
+/usr/bin/python3 /home/kimsy/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py pip install -U flake8 --user
+pip install black 
+pip install blackexit()
+pip install black
+pip install pillow
+python --version
+python-is-python3
+python3 --version
+pip3 install django==2.2.5
+pipenv shell
+. /home/kimsy/.local/share/virtualenvs/kimsy-oFOtfpXs/bin/activate
+pipenv install pillow
+cd airbnb_manage
+pipenv install django-countries
+cd
+pipenv install django-countries
+pipenv install django-seed
+pipenv install django-dotnev
+pipenv install requests
+pipenv install django-dotenv
+python manage.py
+python manage.py runserver
+python manage.py migrate
+python manage.py makemaigration
+python manage.py makemaigrations
+python manage.py makemigrations
+python manage.py migrate
+python manage.py run server
+python manage.py runserver
+git commit -m runserver
+git
+git add .
+git push master origin
+git commit -m runserver
+git init
+git add .
+git commit -m "runserver"
+git config --global user.email "zxcazxksy@gmail.com"
+git confir --global user.name "zxcazxksy"
+git config --global user.name "zxcazxksy"
+git commit -m "runserver"
+git push origin master
+git push
+git push origin master
+git remote add origin https://github.com/zxcazxksy/airbnb_manage
+git push -u origin master
+git init
+git add .
+git commit -m "runserver"
+git remote add origin https://github.com/zxcazxksy/runserver.git
+git push -u origin main
+git branch -M main
+git push -u origin main
